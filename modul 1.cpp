@@ -1,3 +1,5 @@
+#modul 1 ini dapat dilihat soalnya di https://docs.google.com/document/d/1EAzyKp-NBBJrl1T5grRiTS9TgzIrLq6b/edit
+
 #include<iostream>
 #include <stdlib.h>
 #include <Windows.h>
